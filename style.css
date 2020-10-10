@@ -1,0 +1,35 @@
+html {
+    background-color: lightcoral;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(112, 37, 52);
+}
+h1 {
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+    border: 13px rgb(150, 60, 60);
+    border-style: groove;
+    padding: 1px;
+}
+h2 {
+    text-shadow: 0 0 10px rgb(255, 0, 0);
+    font-size: 35px;
+}
+ul {
+    column-count: 5;
+}
+img {
+    float: right;
+    position: relative;
+    right: 30px;
+    bottom: 80px;
+}
+#source {
+    text-align: center;
+    border: 10px groove rgb(150, 60, 60);
+    padding: 25px;
+    padding-top: 5px;
+}
+p {
+    font-size: 13px;
+}
